@@ -154,22 +154,24 @@ namespace O.O.CSharpExercises
         public void Impostos()
         {
             double isento = 2000.00;
-            double roubo1 = 0, roubo2 = 0, roubo3 = 0, excesso=0, valor,rouboTotal;
+            double roubo1 = 0, roubo2 = 0, roubo3 = 0, excesso = 0, valor, rouboTotal;
             Console.WriteLine("Diga o seu salário:");
             valor = double.Parse(Console.ReadLine());
 
             excesso = valor - isento;
 
-            if(excesso <= 1000.00)
+            if (excesso <= 1000.00)
             {
                 roubo1 = excesso * 0.08;
-                
-            } else if (excesso > 1000.00 && excesso <= 2500.00)
+
+            }
+            else if (excesso > 1000.00 && excesso <= 2500.00)
             {
                 roubo1 = 1000.00 * 0.08;
                 roubo2 = excesso - 1000.00;
                 roubo2 = roubo2 * 0.18;
-            }else if (excesso > 2500.00)
+            }
+            else if (excesso > 2500.00)
             {
                 roubo1 = 1000.00 * 0.08;
                 roubo2 = 1500.00 * 0.18;
@@ -179,13 +181,13 @@ namespace O.O.CSharpExercises
 
             rouboTotal = roubo1 + roubo2 + roubo3;
             Console.WriteLine("##############################################");
-            Console.WriteLine("Roubado1: R$"+roubo1.ToString("F2"));
-            Console.WriteLine("Roubado2: R$"+roubo2.ToString("F2"));
-            Console.WriteLine("Roubado3: R$"+roubo3.ToString("F2"));
-            Console.WriteLine("Total Roubado: R$"+rouboTotal.ToString("F2"));
+            Console.WriteLine("Roubado1: R$" + roubo1.ToString("F2"));
+            Console.WriteLine("Roubado2: R$" + roubo2.ToString("F2"));
+            Console.WriteLine("Roubado3: R$" + roubo3.ToString("F2"));
+            Console.WriteLine("Total Roubado: R$" + rouboTotal.ToString("F2"));
             Console.WriteLine("##############################################");
 
         }
 
+        }
     }
-}
