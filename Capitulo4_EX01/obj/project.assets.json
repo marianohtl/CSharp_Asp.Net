@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Thalita\\source\\repos\\O.O.CSharpExercises\\O.O.CSharpExercises\\O.O.CSharpExercises.csproj",
-      "projectName": "O.O.CSharpExercises",
-      "projectPath": "C:\\Users\\Thalita\\source\\repos\\O.O.CSharpExercises\\O.O.CSharpExercises\\O.O.CSharpExercises.csproj",
+      "projectUniqueName": "C:\\Users\\Thalita\\source\\repos\\Capitulo4\\Capitulo4\\Capitulo4.csproj",
+      "projectName": "Capitulo4",
+      "projectPath": "C:\\Users\\Thalita\\source\\repos\\Capitulo4\\Capitulo4\\Capitulo4.csproj",
       "packagesPath": "C:\\Users\\Thalita\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Thalita\\source\\repos\\O.O.CSharpExercises\\O.O.CSharpExercises\\obj\\",
+      "outputPath": "C:\\Users\\Thalita\\source\\repos\\Capitulo4\\Capitulo4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
