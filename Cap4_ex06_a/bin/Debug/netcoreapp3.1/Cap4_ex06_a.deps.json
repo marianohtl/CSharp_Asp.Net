@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "Cap4ex05/1.0.0": {
+      "Cap4_ex06_a/1.0.0": {
         "runtime": {
-          "Cap4ex05.dll": {}
+          "Cap4_ex06_a.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Cap4ex05/1.0.0": {
+    "Cap4_ex06_a/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
