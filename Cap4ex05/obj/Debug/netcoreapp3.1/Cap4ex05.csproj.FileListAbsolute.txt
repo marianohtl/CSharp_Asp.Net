@@ -1,0 +1,11 @@
+C:\Users\Thalita\source\repos\Cap4ex05\Cap4ex05\bin\Debug\netcoreapp3.1\Cap4ex05.exe
+C:\Users\Thalita\source\repos\Cap4ex05\Cap4ex05\bin\Debug\netcoreapp3.1\Cap4ex05.deps.json
+C:\Users\Thalita\source\repos\Cap4ex05\Cap4ex05\bin\Debug\netcoreapp3.1\Cap4ex05.runtimeconfig.json
+C:\Users\Thalita\source\repos\Cap4ex05\Cap4ex05\bin\Debug\netcoreapp3.1\Cap4ex05.runtimeconfig.dev.json
+C:\Users\Thalita\source\repos\Cap4ex05\Cap4ex05\bin\Debug\netcoreapp3.1\Cap4ex05.dll
+C:\Users\Thalita\source\repos\Cap4ex05\Cap4ex05\bin\Debug\netcoreapp3.1\Cap4ex05.pdb
+C:\Users\Thalita\source\repos\Cap4ex05\Cap4ex05\obj\Debug\netcoreapp3.1\Cap4ex05.csprojAssemblyReference.cache
+C:\Users\Thalita\source\repos\Cap4ex05\Cap4ex05\obj\Debug\netcoreapp3.1\Cap4ex05.AssemblyInfoInputs.cache
+C:\Users\Thalita\source\repos\Cap4ex05\Cap4ex05\obj\Debug\netcoreapp3.1\Cap4ex05.AssemblyInfo.cs
+C:\Users\Thalita\source\repos\Cap4ex05\Cap4ex05\obj\Debug\netcoreapp3.1\Cap4ex05.dll
+C:\Users\Thalita\source\repos\Cap4ex05\Cap4ex05\obj\Debug\netcoreapp3.1\Cap4ex05.pdb
