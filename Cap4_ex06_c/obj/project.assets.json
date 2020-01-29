@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Thalita\\source\\repos\\Cap4_ex06_b\\Cap4_ex06_b\\Cap4_ex06_b.csproj",
-      "projectName": "Cap4_ex06_b",
-      "projectPath": "C:\\Users\\Thalita\\source\\repos\\Cap4_ex06_b\\Cap4_ex06_b\\Cap4_ex06_b.csproj",
+      "projectUniqueName": "C:\\Users\\Thalita\\source\\repos\\Cap4_ex06_c\\Cap4_ex06_c\\Cap4_ex06_c.csproj",
+      "projectName": "Cap4_ex06_c",
+      "projectPath": "C:\\Users\\Thalita\\source\\repos\\Cap4_ex06_c\\Cap4_ex06_c\\Cap4_ex06_c.csproj",
       "packagesPath": "C:\\Users\\Thalita\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Thalita\\source\\repos\\Cap4_ex06_b\\Cap4_ex06_b\\obj\\",
+      "outputPath": "C:\\Users\\Thalita\\source\\repos\\Cap4_ex06_c\\Cap4_ex06_c\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
