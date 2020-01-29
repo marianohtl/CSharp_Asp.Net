@@ -1,0 +1,10 @@
+C:\Users\Thalita\source\repos\Cap4_ex04\Cap4_ex04\obj\Debug\netcoreapp3.1\Cap4_ex04.AssemblyInfoInputs.cache
+C:\Users\Thalita\source\repos\Cap4_ex04\Cap4_ex04\obj\Debug\netcoreapp3.1\Cap4_ex04.AssemblyInfo.cs
+C:\Users\Thalita\source\repos\Cap4_ex04\Cap4_ex04\bin\Debug\netcoreapp3.1\Cap4_ex04.exe
+C:\Users\Thalita\source\repos\Cap4_ex04\Cap4_ex04\bin\Debug\netcoreapp3.1\Cap4_ex04.deps.json
+C:\Users\Thalita\source\repos\Cap4_ex04\Cap4_ex04\bin\Debug\netcoreapp3.1\Cap4_ex04.runtimeconfig.json
+C:\Users\Thalita\source\repos\Cap4_ex04\Cap4_ex04\bin\Debug\netcoreapp3.1\Cap4_ex04.runtimeconfig.dev.json
+C:\Users\Thalita\source\repos\Cap4_ex04\Cap4_ex04\bin\Debug\netcoreapp3.1\Cap4_ex04.dll
+C:\Users\Thalita\source\repos\Cap4_ex04\Cap4_ex04\bin\Debug\netcoreapp3.1\Cap4_ex04.pdb
+C:\Users\Thalita\source\repos\Cap4_ex04\Cap4_ex04\obj\Debug\netcoreapp3.1\Cap4_ex04.dll
+C:\Users\Thalita\source\repos\Cap4_ex04\Cap4_ex04\obj\Debug\netcoreapp3.1\Cap4_ex04.pdb
