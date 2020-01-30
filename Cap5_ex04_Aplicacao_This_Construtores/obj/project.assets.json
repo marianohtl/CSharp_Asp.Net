@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Thalita\\source\\repos\\Cap5_ex03_Alternativas_Iniciar_Valores\\Cap5_ex03_Alternativas_Iniciar_Valores\\Cap5_ex03_Alternativas_Iniciar_Valores.csproj",
-      "projectName": "Cap5_ex03_Alternativas_Iniciar_Valores",
-      "projectPath": "C:\\Users\\Thalita\\source\\repos\\Cap5_ex03_Alternativas_Iniciar_Valores\\Cap5_ex03_Alternativas_Iniciar_Valores\\Cap5_ex03_Alternativas_Iniciar_Valores.csproj",
+      "projectUniqueName": "C:\\Users\\Thalita\\source\\repos\\Cap5_ex04_Aplicacao_This_Construtores\\Cap5_ex04_Aplicacao_This_Construtores\\Cap5_ex04_Aplicacao_This_Construtores.csproj",
+      "projectName": "Cap5_ex04_Aplicacao_This_Construtores",
+      "projectPath": "C:\\Users\\Thalita\\source\\repos\\Cap5_ex04_Aplicacao_This_Construtores\\Cap5_ex04_Aplicacao_This_Construtores\\Cap5_ex04_Aplicacao_This_Construtores.csproj",
       "packagesPath": "C:\\Users\\Thalita\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Thalita\\source\\repos\\Cap5_ex03_Alternativas_Iniciar_Valores\\Cap5_ex03_Alternativas_Iniciar_Valores\\obj\\",
+      "outputPath": "C:\\Users\\Thalita\\source\\repos\\Cap5_ex04_Aplicacao_This_Construtores\\Cap5_ex04_Aplicacao_This_Construtores\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

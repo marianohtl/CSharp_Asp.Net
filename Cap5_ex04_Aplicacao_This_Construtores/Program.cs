@@ -1,13 +1,11 @@
 ﻿using System;
-using System.Globalization;
 
-namespace Cap5_ex03_Alternativas_Iniciar_Valores
+namespace Cap5_ex04_Aplicacao_This_Construtores
 {
     class Program
     {
         static void Main(string[] args)
         {
-
             Console.WriteLine("Entre os dados do produto:");
             Console.Write("Nome: ");
             string nome = Console.ReadLine();
@@ -16,10 +14,6 @@ namespace Cap5_ex03_Alternativas_Iniciar_Valores
             Console.Write("Quantidade no estoque: ");
             int quantidade = int.Parse(Console.ReadLine());
 
-            //Construtor padrão funciona, pois não há construtores declarados
-            //Para usar estes dois construtores e declarar um construtor com sobrecarga, precisamos declarar o construtor padrão na classe pai
-            Produto pPadrao = new Produto(); 
-            //Outra forma de instanciar e atribuir valores a um objeto sem usar o construtor
             Produto p = new Produto
             {
                 Nome = "tv",
@@ -41,6 +35,7 @@ namespace Cap5_ex03_Alternativas_Iniciar_Valores
             p.RemoverProdutos(qte);
             Console.WriteLine();
             Console.WriteLine("Dados atualizados: " + p);
+
         }
     }
 }

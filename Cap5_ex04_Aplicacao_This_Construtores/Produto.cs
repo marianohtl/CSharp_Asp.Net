@@ -3,33 +3,31 @@ using System.Collections.Generic;
 using System.Globalization;
 using System.Text;
 
-namespace Cap5_ex03_Alternativas_Iniciar_Valores
+namespace Cap5_ex04_Aplicacao_This_Construtores
 {
     class Produto
     {
+
         public string Nome;
         public double Preco;
         public int Quantidade;
 
-        //O construtor é uma operação que possui o mesmo nome da classe
-        //Podemos definir se ele vai receber obrigatoriamente parâmetros de entrada 
         public Produto()
         {
-
+            Quantidade = 10;
         }
-        public Produto(string nome, double preco, int quantidade)
+        //Reaproveitando o Construtor Padrão
+        public Produto(string nome, double preco) : this()
         {
             Nome = nome;
             Preco = preco;
+        }
+        //Reaproveitando o Construtor Anterior
+
+        public Produto(string nome, double preco, int quantidade) : this(nome, preco)
+        {
             Quantidade = quantidade;
         }
-
-        public Produto(string nome, double preco)
-        {
-            Nome = nome;
-            Preco = preco;
-        } //por padrão os atributos não declarados recebem 0
-
 
         public double ValorTotalEmEstoque()
         {
