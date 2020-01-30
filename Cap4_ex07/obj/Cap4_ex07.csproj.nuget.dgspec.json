@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Thalita\\source\\repos\\Cap4_ex06_c\\Cap4_ex06_c\\Cap4_ex06_c.csproj": {}
+    "C:\\Users\\Thalita\\source\\repos\\Cap4_ex07\\Cap4_ex07\\Cap4_ex07.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Thalita\\source\\repos\\Cap4_ex06_c\\Cap4_ex06_c\\Cap4_ex06_c.csproj": {
+    "C:\\Users\\Thalita\\source\\repos\\Cap4_ex07\\Cap4_ex07\\Cap4_ex07.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Thalita\\source\\repos\\Cap4_ex06_c\\Cap4_ex06_c\\Cap4_ex06_c.csproj",
-        "projectName": "Cap4_ex06_c",
-        "projectPath": "C:\\Users\\Thalita\\source\\repos\\Cap4_ex06_c\\Cap4_ex06_c\\Cap4_ex06_c.csproj",
+        "projectUniqueName": "C:\\Users\\Thalita\\source\\repos\\Cap4_ex07\\Cap4_ex07\\Cap4_ex07.csproj",
+        "projectName": "Cap4_ex07",
+        "projectPath": "C:\\Users\\Thalita\\source\\repos\\Cap4_ex07\\Cap4_ex07\\Cap4_ex07.csproj",
         "packagesPath": "C:\\Users\\Thalita\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Thalita\\source\\repos\\Cap4_ex06_c\\Cap4_ex06_c\\obj\\",
+        "outputPath": "C:\\Users\\Thalita\\source\\repos\\Cap4_ex07\\Cap4_ex07\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
