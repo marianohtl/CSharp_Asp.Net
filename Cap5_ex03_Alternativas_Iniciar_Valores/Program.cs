@@ -1,6 +1,7 @@
 ﻿using System;
+using System.Globalization;
 
-namespace Cap5_ex02_Sobrecarga
+namespace Cap5_ex03_Alternativas_Iniciar_Valores
 {
     class Program
     {
@@ -14,10 +15,19 @@ namespace Cap5_ex02_Sobrecarga
             double preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             Console.Write("Quantidade no estoque: ");
             int quantidade = int.Parse(Console.ReadLine());
-            //Sobrecarga
-            Produto p = new Produto(nome, preco);
-            Produto p1 = new Produto();
-            Produto p2 = new Produto(nome, preco, quantidade);
+
+            //Construtor padrão funciona, pois não há construtores declarados
+            //Para usar estes dois construtores e declarar um construtor com sobrecarga, precisamos declarar o construtor padrão na classe pai
+            Produto pPadrao = new Produto(); 
+            //Outra forma de instanciar e atribuir valores a um objeto sem usar o construtor
+            Produto p = new Produto
+            {
+                Nome = "tv",
+                Preco = 900.00,
+                Quantidade = 10
+            };
+
+
             Console.WriteLine("Dados do produto: " + p);
             Console.WriteLine();
             Console.Write("Digite o número de produtos a ser adicionado ao estoque: ");
