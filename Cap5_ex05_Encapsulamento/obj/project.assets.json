@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Thalita\\source\\repos\\Cap5_ex04_Aplicacao_This_Construtores\\Cap5_ex04_Aplicacao_This_Construtores\\Cap5_ex04_Aplicacao_This_Construtores.csproj",
-      "projectName": "Cap5_ex04_Aplicacao_This_Construtores",
-      "projectPath": "C:\\Users\\Thalita\\source\\repos\\Cap5_ex04_Aplicacao_This_Construtores\\Cap5_ex04_Aplicacao_This_Construtores\\Cap5_ex04_Aplicacao_This_Construtores.csproj",
+      "projectUniqueName": "C:\\Users\\Thalita\\source\\repos\\Cap5_ex05_Encapsulamento\\Cap5_ex05_Encapsulamento\\Cap5_ex05_Encapsulamento.csproj",
+      "projectName": "Cap5_ex05_Encapsulamento",
+      "projectPath": "C:\\Users\\Thalita\\source\\repos\\Cap5_ex05_Encapsulamento\\Cap5_ex05_Encapsulamento\\Cap5_ex05_Encapsulamento.csproj",
       "packagesPath": "C:\\Users\\Thalita\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Thalita\\source\\repos\\Cap5_ex04_Aplicacao_This_Construtores\\Cap5_ex04_Aplicacao_This_Construtores\\obj\\",
+      "outputPath": "C:\\Users\\Thalita\\source\\repos\\Cap5_ex05_Encapsulamento\\Cap5_ex05_Encapsulamento\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
