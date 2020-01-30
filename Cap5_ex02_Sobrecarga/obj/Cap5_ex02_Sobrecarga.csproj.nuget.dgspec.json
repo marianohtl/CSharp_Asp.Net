@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Thalita\\source\\repos\\Cap5_ex01_Construtores\\Cap5_ex01_Construtores\\Cap5_ex01_Construtores.csproj": {}
+    "C:\\Users\\Thalita\\source\\repos\\Cap5_ex02_Sobrecarga\\Cap5_ex02_Sobrecarga\\Cap5_ex02_Sobrecarga.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Thalita\\source\\repos\\Cap5_ex01_Construtores\\Cap5_ex01_Construtores\\Cap5_ex01_Construtores.csproj": {
+    "C:\\Users\\Thalita\\source\\repos\\Cap5_ex02_Sobrecarga\\Cap5_ex02_Sobrecarga\\Cap5_ex02_Sobrecarga.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Thalita\\source\\repos\\Cap5_ex01_Construtores\\Cap5_ex01_Construtores\\Cap5_ex01_Construtores.csproj",
-        "projectName": "Cap5_ex01_Construtores",
-        "projectPath": "C:\\Users\\Thalita\\source\\repos\\Cap5_ex01_Construtores\\Cap5_ex01_Construtores\\Cap5_ex01_Construtores.csproj",
+        "projectUniqueName": "C:\\Users\\Thalita\\source\\repos\\Cap5_ex02_Sobrecarga\\Cap5_ex02_Sobrecarga\\Cap5_ex02_Sobrecarga.csproj",
+        "projectName": "Cap5_ex02_Sobrecarga",
+        "projectPath": "C:\\Users\\Thalita\\source\\repos\\Cap5_ex02_Sobrecarga\\Cap5_ex02_Sobrecarga\\Cap5_ex02_Sobrecarga.csproj",
         "packagesPath": "C:\\Users\\Thalita\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Thalita\\source\\repos\\Cap5_ex01_Construtores\\Cap5_ex01_Construtores\\obj\\",
+        "outputPath": "C:\\Users\\Thalita\\source\\repos\\Cap5_ex02_Sobrecarga\\Cap5_ex02_Sobrecarga\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

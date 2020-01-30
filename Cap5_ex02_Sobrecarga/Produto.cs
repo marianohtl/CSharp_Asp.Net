@@ -1,12 +1,36 @@
-﻿using System.Globalization;
+﻿using System;
+using System.Collections.Generic;
+using System.Globalization;
+using System.Text;
 
-namespace Cap5_ex01_Construtores
+namespace Cap5_ex02_Sobrecarga
 {
     class Produto
     {
         public string Nome;
         public double Preco;
         public int Quantidade;
+
+        //O construtor é uma operação que possui o mesmo nome da classe
+        //Podemos definir se ele vai receber obrigatoriamente parâmetros de entrada 
+        public Produto()
+        {
+
+        }
+        public Produto(string nome, double preco, int quantidade)
+        {
+            Nome = nome;
+            Preco = preco;
+            Quantidade = quantidade;
+        }
+
+        public Produto(string nome, double preco)
+        {
+            Nome = nome;
+            Preco = preco;
+        } //por padrão os atributos não declarados recebem 0
+
+
         public double ValorTotalEmEstoque()
         {
             return Preco * Quantidade;
