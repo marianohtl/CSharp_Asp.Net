@@ -1,0 +1,10 @@
+C:\Users\Thalita\source\repos\Cap5_ex05_Properties\Cap5_ex05_Properties\bin\Debug\netcoreapp3.1\Cap5_ex06_Properties.exe
+C:\Users\Thalita\source\repos\Cap5_ex05_Properties\Cap5_ex05_Properties\bin\Debug\netcoreapp3.1\Cap5_ex06_Properties.deps.json
+C:\Users\Thalita\source\repos\Cap5_ex05_Properties\Cap5_ex05_Properties\bin\Debug\netcoreapp3.1\Cap5_ex06_Properties.runtimeconfig.json
+C:\Users\Thalita\source\repos\Cap5_ex05_Properties\Cap5_ex05_Properties\bin\Debug\netcoreapp3.1\Cap5_ex06_Properties.runtimeconfig.dev.json
+C:\Users\Thalita\source\repos\Cap5_ex05_Properties\Cap5_ex05_Properties\bin\Debug\netcoreapp3.1\Cap5_ex06_Properties.dll
+C:\Users\Thalita\source\repos\Cap5_ex05_Properties\Cap5_ex05_Properties\bin\Debug\netcoreapp3.1\Cap5_ex06_Properties.pdb
+C:\Users\Thalita\source\repos\Cap5_ex05_Properties\Cap5_ex05_Properties\obj\Debug\netcoreapp3.1\Cap5_ex06_Properties.AssemblyInfoInputs.cache
+C:\Users\Thalita\source\repos\Cap5_ex05_Properties\Cap5_ex05_Properties\obj\Debug\netcoreapp3.1\Cap5_ex06_Properties.AssemblyInfo.cs
+C:\Users\Thalita\source\repos\Cap5_ex05_Properties\Cap5_ex05_Properties\obj\Debug\netcoreapp3.1\Cap5_ex06_Properties.dll
+C:\Users\Thalita\source\repos\Cap5_ex05_Properties\Cap5_ex05_Properties\obj\Debug\netcoreapp3.1\Cap5_ex06_Properties.pdb
