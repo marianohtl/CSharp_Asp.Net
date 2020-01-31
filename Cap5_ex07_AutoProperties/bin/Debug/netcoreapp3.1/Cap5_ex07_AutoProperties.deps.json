@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Cap5_ex07_AutoProperties/1.0.0": {
+        "runtime": {
+          "Cap5_ex07_AutoProperties.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cap5_ex07_AutoProperties/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
