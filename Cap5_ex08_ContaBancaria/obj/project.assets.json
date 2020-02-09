@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Thalita\\source\\repos\\Cap5_ex07_AutoProperties\\Cap5_ex07_AutoProperties\\Cap5_ex07_AutoProperties.csproj",
-      "projectName": "Cap5_ex07_AutoProperties",
-      "projectPath": "C:\\Users\\Thalita\\source\\repos\\Cap5_ex07_AutoProperties\\Cap5_ex07_AutoProperties\\Cap5_ex07_AutoProperties.csproj",
+      "projectUniqueName": "C:\\Users\\Thalita\\source\\repos\\Cap5_ex08_ContaBancaria\\Cap5_ex08_ContaBancaria\\Cap5_ex08_ContaBancaria.csproj",
+      "projectName": "Cap5_ex08_ContaBancaria",
+      "projectPath": "C:\\Users\\Thalita\\source\\repos\\Cap5_ex08_ContaBancaria\\Cap5_ex08_ContaBancaria\\Cap5_ex08_ContaBancaria.csproj",
       "packagesPath": "C:\\Users\\Thalita\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Thalita\\source\\repos\\Cap5_ex07_AutoProperties\\Cap5_ex07_AutoProperties\\obj\\",
+      "outputPath": "C:\\Users\\Thalita\\source\\repos\\Cap5_ex08_ContaBancaria\\Cap5_ex08_ContaBancaria\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

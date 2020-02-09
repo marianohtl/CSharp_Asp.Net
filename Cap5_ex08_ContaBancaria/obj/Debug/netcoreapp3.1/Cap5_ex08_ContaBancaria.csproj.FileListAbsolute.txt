@@ -1,0 +1,11 @@
+C:\Users\Thalita\source\repos\Cap5_ex08_ContaBancaria\Cap5_ex08_ContaBancaria\bin\Debug\netcoreapp3.1\Cap5_ex08_ContaBancaria.exe
+C:\Users\Thalita\source\repos\Cap5_ex08_ContaBancaria\Cap5_ex08_ContaBancaria\bin\Debug\netcoreapp3.1\Cap5_ex08_ContaBancaria.deps.json
+C:\Users\Thalita\source\repos\Cap5_ex08_ContaBancaria\Cap5_ex08_ContaBancaria\bin\Debug\netcoreapp3.1\Cap5_ex08_ContaBancaria.runtimeconfig.json
+C:\Users\Thalita\source\repos\Cap5_ex08_ContaBancaria\Cap5_ex08_ContaBancaria\bin\Debug\netcoreapp3.1\Cap5_ex08_ContaBancaria.runtimeconfig.dev.json
+C:\Users\Thalita\source\repos\Cap5_ex08_ContaBancaria\Cap5_ex08_ContaBancaria\bin\Debug\netcoreapp3.1\Cap5_ex08_ContaBancaria.dll
+C:\Users\Thalita\source\repos\Cap5_ex08_ContaBancaria\Cap5_ex08_ContaBancaria\bin\Debug\netcoreapp3.1\Cap5_ex08_ContaBancaria.pdb
+C:\Users\Thalita\source\repos\Cap5_ex08_ContaBancaria\Cap5_ex08_ContaBancaria\obj\Debug\netcoreapp3.1\Cap5_ex08_ContaBancaria.csprojAssemblyReference.cache
+C:\Users\Thalita\source\repos\Cap5_ex08_ContaBancaria\Cap5_ex08_ContaBancaria\obj\Debug\netcoreapp3.1\Cap5_ex08_ContaBancaria.AssemblyInfoInputs.cache
+C:\Users\Thalita\source\repos\Cap5_ex08_ContaBancaria\Cap5_ex08_ContaBancaria\obj\Debug\netcoreapp3.1\Cap5_ex08_ContaBancaria.AssemblyInfo.cs
+C:\Users\Thalita\source\repos\Cap5_ex08_ContaBancaria\Cap5_ex08_ContaBancaria\obj\Debug\netcoreapp3.1\Cap5_ex08_ContaBancaria.dll
+C:\Users\Thalita\source\repos\Cap5_ex08_ContaBancaria\Cap5_ex08_ContaBancaria\obj\Debug\netcoreapp3.1\Cap5_ex08_ContaBancaria.pdb

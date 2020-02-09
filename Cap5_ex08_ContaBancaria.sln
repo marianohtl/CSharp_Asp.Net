@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cap5_ex07_AutoProperties", "Cap5_ex07_AutoProperties\Cap5_ex07_AutoProperties.csproj", "{89A48246-8324-4864-B480-BB93D988F837}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cap5_ex08_ContaBancaria", "Cap5_ex08_ContaBancaria\Cap5_ex08_ContaBancaria.csproj", "{E94742F7-C33A-4069-A878-57E4DB329385}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{89A48246-8324-4864-B480-BB93D988F837}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{89A48246-8324-4864-B480-BB93D988F837}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{89A48246-8324-4864-B480-BB93D988F837}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{89A48246-8324-4864-B480-BB93D988F837}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E94742F7-C33A-4069-A878-57E4DB329385}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E94742F7-C33A-4069-A878-57E4DB329385}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E94742F7-C33A-4069-A878-57E4DB329385}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E94742F7-C33A-4069-A878-57E4DB329385}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {5655D158-2020-4A77-B63B-9B84AAD4A7B1}
+		SolutionGuid = {35120EB4-F792-4823-9F31-035317778381}
 	EndGlobalSection
 EndGlobal
