@@ -1,0 +1,9 @@
+C:\Users\Momoh\Desktop\teste\TesteDgBar\Backend\DgBar.Domain\obj\Debug\netcoreapp3.1\DgBar.Domain.csprojAssemblyReference.cache
+C:\Users\Momoh\Desktop\teste\TesteDgBar\Backend\DgBar.Domain\obj\Debug\netcoreapp3.1\DgBar.Domain.AssemblyInfoInputs.cache
+C:\Users\Momoh\Desktop\teste\TesteDgBar\Backend\DgBar.Domain\obj\Debug\netcoreapp3.1\DgBar.Domain.AssemblyInfo.cs
+C:\Users\Momoh\Desktop\teste\TesteDgBar\Backend\DgBar.Domain\obj\Debug\netcoreapp3.1\DgBar.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Momoh\Desktop\teste\TesteDgBar\Backend\DgBar.Domain\bin\Debug\netcoreapp3.1\DgBar.Domain.deps.json
+C:\Users\Momoh\Desktop\teste\TesteDgBar\Backend\DgBar.Domain\bin\Debug\netcoreapp3.1\DgBar.Domain.dll
+C:\Users\Momoh\Desktop\teste\TesteDgBar\Backend\DgBar.Domain\bin\Debug\netcoreapp3.1\DgBar.Domain.pdb
+C:\Users\Momoh\Desktop\teste\TesteDgBar\Backend\DgBar.Domain\obj\Debug\netcoreapp3.1\DgBar.Domain.dll
+C:\Users\Momoh\Desktop\teste\TesteDgBar\Backend\DgBar.Domain\obj\Debug\netcoreapp3.1\DgBar.Domain.pdb
