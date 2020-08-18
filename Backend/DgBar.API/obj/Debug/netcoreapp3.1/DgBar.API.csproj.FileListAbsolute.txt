@@ -60,5 +60,10 @@ C:\Users\Momoh\Desktop\teste\TesteDgBar\Backend\DgBar.API\bin\Debug\netcoreapp3.
 C:\Users\Momoh\Desktop\teste\TesteDgBar\Backend\DgBar.API\bin\Debug\netcoreapp3.1\DgBar.Domain.pdb
 C:\Users\Momoh\Desktop\teste\TesteDgBar\Backend\DgBar.API\bin\Debug\netcoreapp3.1\DgBar.InfraData.pdb
 C:\Users\Momoh\Desktop\teste\TesteDgBar\Backend\DgBar.API\obj\Debug\netcoreapp3.1\DgBar.API.csproj.CopyComplete
+C:\Users\Momoh\Desktop\teste\TesteDgBar\Backend\DgBar.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Momoh\Desktop\teste\TesteDgBar\Backend\DgBar.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Momoh\Desktop\teste\TesteDgBar\Backend\DgBar.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Momoh\Desktop\teste\TesteDgBar\Backend\DgBar.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\Momoh\Desktop\teste\TesteDgBar\Backend\DgBar.API\obj\Debug\netcoreapp3.1\DgBar.API.csproj.CoreCompileInputs.cache
+C:\Users\Momoh\Desktop\teste\TesteDgBar\Backend\DgBar.API\obj\Debug\netcoreapp3.1\DgBar.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Momoh\Desktop\teste\TesteDgBar\Backend\DgBar.API\obj\Debug\netcoreapp3.1\DgBar.API.MvcApplicationPartsAssemblyInfo.cache
