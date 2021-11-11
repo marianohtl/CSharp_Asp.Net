@@ -14,7 +14,7 @@ namespace FaceApiTest
         public byte[] ConvertToBytes(string imgPath)
         {
             MemoryStream memoryStream = new MemoryStream();
-            using(FileStream stream = new FileStream(imgPath, FileMode.Open))
+            using (FileStream stream = new FileStream(imgPath, FileMode.Open))
             {
                 stream.CopyTo(memoryStream);
             }
@@ -22,11 +22,12 @@ namespace FaceApiTest
             return bytes;
         }
 
-        public void FromBytesToImage(byte[] imageBytes, string fileName) {
+        public void FromBytesToImage(byte[] imageBytes, string fileName)
+        {
             using (var ms = new MemoryStream(imageBytes))
             {
                 Image img = Image.FromStream(ms);
-                img.Save(fileName  + "jpg", ImageFormat.Jpeg); 
+                img.Save(fileName + "jpg", ImageFormat.Jpeg);
             }
         }
     }

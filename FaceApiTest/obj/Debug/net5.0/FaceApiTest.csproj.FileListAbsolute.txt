@@ -21,3 +21,11 @@ C:\Users\thalita.mariano\source\repos\IAFaces\FaceApiTest\obj\Debug\net5.0\FaceA
 C:\Users\thalita.mariano\source\repos\IAFaces\FaceApiTest\obj\Debug\net5.0\ref\FaceApiTest.dll
 C:\Users\thalita.mariano\source\repos\IAFaces\FaceApiTest\obj\Debug\net5.0\FaceApiTest.pdb
 C:\Users\thalita.mariano\source\repos\IAFaces\FaceApiTest\obj\Debug\net5.0\FaceApiTest.genruntimeconfig.cache
+C:\Users\thalita.mariano\source\repos\haarsCascade\FaceApiTest\obj\Debug\net5.0\FaceApiTest.csproj.AssemblyReference.cache
+C:\Users\thalita.mariano\source\repos\haarsCascade\FaceApiTest\obj\Debug\net5.0\FaceApiTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thalita.mariano\source\repos\haarsCascade\FaceApiTest\obj\Debug\net5.0\FaceApiTest.AssemblyInfoInputs.cache
+C:\Users\thalita.mariano\source\repos\haarsCascade\FaceApiTest\obj\Debug\net5.0\FaceApiTest.AssemblyInfo.cs
+C:\Users\thalita.mariano\source\repos\haarsCascade\FaceApiTest\obj\Debug\net5.0\FaceApiTest.csproj.CoreCompileInputs.cache
+C:\Users\thalita.mariano\source\repos\haarsCascade\FaceApiTest\obj\Debug\net5.0\FaceApiTest.dll
+C:\Users\thalita.mariano\source\repos\haarsCascade\FaceApiTest\obj\Debug\net5.0\ref\FaceApiTest.dll
+C:\Users\thalita.mariano\source\repos\haarsCascade\FaceApiTest\obj\Debug\net5.0\FaceApiTest.pdb

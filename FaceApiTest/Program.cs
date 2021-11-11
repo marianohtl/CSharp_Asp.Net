@@ -31,12 +31,12 @@ namespace FaceApiTest
             {
                 for (int i = 0; i < faceList.Count; i++)
                 {
-                    imgUtil.FromBytesToImage(faceList[i],"face" + i);
+                    imgUtil.FromBytesToImage(faceList[i], "face" + i);
                 }
             }
 
-        
-        
+
+
         }
     }
 }
