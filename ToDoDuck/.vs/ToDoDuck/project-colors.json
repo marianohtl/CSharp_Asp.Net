@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "63f2b430-409f-4268-a4f6-ed8d20013ec7": {
+      "ProjectGuid": "63f2b430-409f-4268-a4f6-ed8d20013ec7",
+      "DisplayName": "ToDoDuck",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
